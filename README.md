@@ -6,7 +6,7 @@
 - 预约凭证：支持线下到场后校验签到/核销/二维码自助签到等多种方式
 - 详尽的预约数据：支持预约名单数据导出Excel，打印
 
- ![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+ ![image](https://user-images.githubusercontent.com/102274699/160034805-5d911529-1fef-4298-806c-0426bcf6f1b2.png)
 
 ## 技术运用
 - 本项目使用微信小程序平台进行开发。
@@ -20,13 +20,13 @@
 ## 作者
 - 如有疑问，欢迎骚扰联系我鸭：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知，安装部署协助，小程序开发定制等。
 - 俺的微信:
-![输入图片说明](demo/author-base.png)
+![image](https://user-images.githubusercontent.com/102274699/160034944-6dd645a1-5cff-4523-b1b9-51a37472e63d.png)
  
 
 
 
 ## 演示
- ![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+![image](https://user-images.githubusercontent.com/102274699/160034810-335b3e97-be92-495c-b0dd-65d1df2c7183.png)
  
  
 
@@ -38,27 +38,25 @@
 
 
 ## 截图
+ ![image](https://user-images.githubusercontent.com/102274699/160034826-736334ee-9478-427e-8ddc-9c61004bb685.png)
+![image](https://user-images.githubusercontent.com/102274699/160034830-6ac1a03f-a10b-4f45-8992-053234ed2be3.png)
+![image](https://user-images.githubusercontent.com/102274699/160034833-be816917-f958-4935-9ab6-f8dffe66a19d.png)
+![image](https://user-images.githubusercontent.com/102274699/160034838-32c494b2-101f-427e-ab79-31e80a2664b0.png)
+![image](https://user-images.githubusercontent.com/102274699/160034841-20ce2a8b-ea3c-45b6-ba89-1b431be5b181.png)
+![image](https://user-images.githubusercontent.com/102274699/160034847-4e22bce1-92c5-4bfb-95af-2c27d004d7b0.png)
+![image](https://user-images.githubusercontent.com/102274699/160034852-00dea1b6-25d7-453a-8604-4c18caaaebae.png)
+![image](https://user-images.githubusercontent.com/102274699/160034856-9b4289a2-56ea-4495-84b3-280ded490323.png)
+![image](https://user-images.githubusercontent.com/102274699/160034860-a464ffff-ce21-4250-91eb-2cff5dae0e15.png)
+![image](https://user-images.githubusercontent.com/102274699/160034866-280d9bd8-6dcd-41db-ac47-2a4e40cc0a32.png)
+![image](https://user-images.githubusercontent.com/102274699/160034870-8ec3de78-3c61-407c-9703-a9f4d06bac9e.png)
 
- ![输入图片说明](demo/1%E9%A6%96%E9%A1%B5.png)
-![输入图片说明](demo/2%E6%99%AF%E5%8C%BA%E5%8A%A8%E6%80%81.png)
-
-![输入图片说明](demo/3%E6%99%AF%E7%82%B9%E6%94%BB%E7%95%A5.png)
-
-![输入图片说明](demo/4%E9%A2%84%E7%BA%A6%E6%97%A5%E5%8E%86.png)
-![输入图片说明](demo/5%E6%88%91%E7%9A%84.png)
-
-![输入图片说明](demo/6%E6%99%AF%E7%82%B9%E9%A2%84%E7%BA%A6.png)
-![输入图片说明](demo/7%E5%81%9C%E8%BD%A6%E9%A2%84%E7%BA%A6.png)
-![输入图片说明](demo/8%E9%A2%84%E7%BA%A6%E8%AF%A6%E6%83%85.png)
-![输入图片说明](demo/9%E9%A2%84%E7%BA%A6%E5%A1%AB%E5%86%99.png)
-![输入图片说明](demo/10%E9%A2%84%E7%BA%A6%E6%88%90%E5%8A%9F.png)
+![Uploading image.png…]()
 
 ## 后台管理系统截图
-![输入图片说明](demo/11%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/12%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E6%97%B6%E6%AE%B5%E8%AE%BE%E7%BD%AE.png)
-![输入图片说明](demo/13%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E8%8F%9C%E5%8D%95.png)
-![输入图片说明](demo/14-%E5%90%8E%E5%8F%B0%E9%A2%84%E7%BA%A6%E5%90%8D%E5%8D%95.png)
-![输入图片说明](demo/15-%E5%90%8E%E5%8F%B0%E9%A2%84%E7%BA%A6%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/16-%E5%90%8E%E5%8F%B0%E9%A2%84%E7%BA%A6%E5%90%8D%E5%8D%95%E5%AF%BC%E5%87%BA.png)
-![输入图片说明](demo/17-%E5%90%8E%E5%8F%B0-%E6%96%87%E7%AB%A0%E8%B5%84%E8%AE%AF%E6%B7%BB%E5%8A%A0.png)
-![输入图片说明](demo/18%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E7%AD%BE%E5%88%B0%E6%A0%B8%E9%94%80.png)
+ ![image](https://user-images.githubusercontent.com/102274699/160034873-96780bd2-060f-432c-8b66-71ca9d0f6210.png)
+![image](https://user-images.githubusercontent.com/102274699/160034883-5397bbaf-7ec8-4aad-955a-518cb30ca76d.png)
+![image](https://user-images.githubusercontent.com/102274699/160034877-f62cf5d5-72ba-4500-8279-408fbd91ff2c.png)
+![image](https://user-images.githubusercontent.com/102274699/160034890-d4d040eb-1a57-41e4-9b04-4e9e76387609.png)
+![image](https://user-images.githubusercontent.com/102274699/160034892-06689775-e8ba-4bbf-b36a-cb37283454fa.png)
+![image](https://user-images.githubusercontent.com/102274699/160034894-daff0283-c90c-47bf-91e9-794a52dd326c.png)
+![image](https://user-images.githubusercontent.com/102274699/160034898-f585aa50-f0fd-4d75-9106-751915232250.png)
